@@ -1,0 +1,19 @@
+{
+  "name": "utility-stacks",
+  "version": "1.0.0",
+  "description": "Collection of 1000s of javascript function for your project. The only collection of utility function you need.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selvesandev/utility-stacks.git"
+  },
+  "author": "dev.selvesan@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selvesandev/utility-stacks/issues"
+  },
+  "homepage": "https://github.com/selvesandev/utility-stacks#readme"
+}
